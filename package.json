@@ -1,0 +1,10 @@
+{
+  "name": "pickme",
+  "version": "1.0.0",
+  "description": "For destructuring directly into a new object",
+  "main": "index.js",
+  "repository": "git@github.com:mvcds/pickme.git",
+  "author": "Marcos Vinícius C. da Silva <marvinc.silva@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
